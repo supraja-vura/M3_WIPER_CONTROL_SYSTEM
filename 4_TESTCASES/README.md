@@ -2,7 +2,7 @@
 
 ## HIGH LEVEL TEST PLAN
 
-| **Test ID** | **Description**                                              | **Actual Output** | **Expected Output** |   
+| **Test ID** | **Description**                                            | **Actual Output** | **Expected Output** |   
 |-------------|--------------------------------------------------------------|--------------------|-----------------|
 |  HL01      | User should able to view intensity of rainfall on LCD |   Not Implemented | Displays on LCD |
 |  HL02      | User should be given alert incase of heavy rainfall |  Not Implemented |Gives alert  |

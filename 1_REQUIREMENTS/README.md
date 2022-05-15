@@ -6,10 +6,10 @@ A wiper speed control system for an automotive wiper controls the operational sp
 
 ## Features
 
-* Changes the wiper speed according to rain intensity
+* Changes the wiper speed according to rain intensity.
 * Avoids accidents during rain.
-* Ensures human safety
-* Doesn't require driver to change the speed manually
+* Ensures human safety.
+* Doesn't require driver to change the speed manually.
 
 ## COMPONENTS
 ![image](https://user-images.githubusercontent.com/68106099/168474350-ed272c84-3381-48d2-8be5-d27e08c5033f.png)

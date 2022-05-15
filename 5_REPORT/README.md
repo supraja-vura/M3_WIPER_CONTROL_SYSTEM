@@ -63,6 +63,20 @@ Rich connectivity: Superior and innovative peripherals: Compared to the STM32F4x
 ### Threat:
 - Now there are many new developing devices for competition in the Automobiles advancement sector.
 
+## ARCHITECTURE
+### BEHAVIOURAL DIAGRAMS
+![B1](https://user-images.githubusercontent.com/68106099/168480755-9cd46649-823d-44fa-bd8c-4bf3b47d6bf5.jpeg)
+
+### FLOW CHART
+![FLOW](https://user-images.githubusercontent.com/68106099/168480771-5938fd93-e9f9-4100-91ed-e7733b763cda.jpeg)
+
+### BLOCK DIAGRAM
+![BD](https://user-images.githubusercontent.com/68106099/168481008-c42f4ec8-53b6-400d-bccc-a3edf763daed.jpeg)
+
+### STRUCTURAL DIAGRAM
+![ST](https://user-images.githubusercontent.com/68106099/168480946-3db6ce90-37c1-4bef-8e40-c707a161f6f5.jpeg)
+
+
 ## High Level Requirements
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
@@ -79,6 +93,12 @@ Rich connectivity: Superior and innovative peripherals: Compared to the STM32F4x
 |LL01|User should able to TURN ON wiper system |technical|  
 |LL02|The system sould able automatically switch the speed of wipers |technical|
 |LL03|The system should work accurately|technical|  
+
+## Best Methods Followed
+* Exact Mapping of code to avoid confusions
+* Mentioning of both High level and Low level Behavioral and structural diagrams for better understanding
+* Followed the exact symbols to make the understanding easier
+* Detailed explanation in Low level Behavioural and Structural Diagrams
 
 # OUTPUT
 
